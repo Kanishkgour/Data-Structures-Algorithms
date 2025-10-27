@@ -9,7 +9,7 @@ public class palindrome {
         if (duplicate.equals(str)) {
             System.out.println(str + " is Pallindrome");
         } else {
-            System.out.println(" Not a valid Pallindrome");
+            // System.out.println(" Not a valid Pallindrome");
         }
 
     }
